@@ -2,6 +2,8 @@
 
 A modern iOS expense tracking application with AI-powered insights, built with SwiftUI and FastAPI.
 
+Screenrecording for the app: https://www.loom.com/share/fa52318f25c94fa8a4d65a2aa305a748
+
 | Add Purchase | Insights | Transactions |
 |----------|------------|--------------|
 | ![](https://github.com/user-attachments/assets/e5768144-13d0-4abb-b18c-d27ed55f304e) | ![](https://github.com/user-attachments/assets/cc80d6ef-85bc-4984-8b1f-1bb19a9fee64) | ![](https://github.com/user-attachments/assets/82bb7c61-cd62-4515-88ab-df6e6aec6b7a) |
