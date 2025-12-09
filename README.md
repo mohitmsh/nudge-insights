@@ -2,6 +2,13 @@
 
 A modern iOS expense tracking application with AI-powered insights, built with SwiftUI and FastAPI.
 
+| Add Purchase | Insights | Transactions |
+|----------|------------|--------------|
+| ![](https://github.com/user-attachments/assets/e5768144-13d0-4abb-b18c-d27ed55f304e) | ![](https://github.com/user-attachments/assets/cc80d6ef-85bc-4984-8b1f-1bb19a9fee64) | ![](https://github.com/user-attachments/assets/82bb7c61-cd62-4515-88ab-df6e6aec6b7a) |
+| ![](https://github.com/user-attachments/assets/9454c99e-0e32-4cb8-99e2-8f2465a27e0c) | ![](https://github.com/user-attachments/assets/b4adb5d1-4103-4159-939a-fac5c204d727) | ![](https://github.com/user-attachments/assets/215427d8-1500-40bb-a356-cb3dd9140477) |
+
+
+
 ## Overview
 
 Nudge helps users track their spending with beautiful visualizations and AI-generated financial insights. The app features a clean, card-based interface with spending charts, category breakdowns, and personalized tips.
