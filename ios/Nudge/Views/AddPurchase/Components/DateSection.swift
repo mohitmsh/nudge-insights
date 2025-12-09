@@ -26,7 +26,7 @@ struct DateSection: View {
                             .font(.system(size: 20, weight: .semibold))
                             .foregroundColor(useCustomDate ? .blue : .secondary)
                         
-                        Text(useCustomDate ? "Custom Date" : "Use Current Time")
+                        Text(useCustomDate ? "Custom Date" : "Use Custom Date")
                             .font(.proximaNova(size: 16))
                             .foregroundColor(.primary)
                     }
